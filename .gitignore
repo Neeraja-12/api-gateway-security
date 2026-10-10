@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.env
+venv/
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+lambda.zip
+screenshots/
+.vscode/
+.idea/
