@@ -1,4 +1,4 @@
-﻿__pycache__/
+__pycache__/
 *.pyc
 .env
 venv/
@@ -7,6 +7,5 @@ venv/
 *.tfstate.*
 .terraform.lock.hcl
 lambda.zip
-screenshots/
 .vscode/
 .idea/
